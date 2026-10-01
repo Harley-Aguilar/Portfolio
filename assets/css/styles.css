@@ -315,3 +315,5 @@ html[lang="en"] .hero h1{font-size:clamp(3rem,6.1vw,5.6rem)}
 /* Apply the portrait board width consistently in both languages. */
 .noa-detail .case-study figure:has(img[data-portrait]){max-width:1040px;margin-inline:auto}
 a.art-frame--violet{cursor:zoom-in}
+
+html[lang="en"] .graphics-cover::after{content:"SELECTED WORK IN MOTION"}
