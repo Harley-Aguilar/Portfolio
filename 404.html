@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width,initial-scale=1" name="viewport"/>
+<meta name="robots" content="noindex"/>
+<title>Página não encontrada — Harley Aguilar</title>
+<style>
+body{margin:0;min-height:100vh;display:grid;place-items:center;background:#0a0a0a;color:#f4f0e8;font-family:Arial,sans-serif}
+main{text-align:center;padding:32px}h1{font-size:clamp(4rem,14vw,9rem);margin:0}p{opacity:.7}
+a{color:#c9ff32}
+</style>
+</head>
+<body><main><h1>404</h1><p>Essa página não existe.</p><a id="home-link" href="/">Voltar ao portfólio</a></main>
+<script>
+// Find the portfolio root without requiring a repository name or custom domain.
+(async () => {
+  const link = document.getElementById('home-link');
+  const english = location.pathname.split('/').includes('en');
+  if (english) {
+    document.documentElement.lang = 'en';
+    document.title = 'Page not found — Harley Aguilar';
+    document.querySelector('main p').textContent = 'This page does not exist.';
+    link.textContent = 'Back to portfolio';
+  }
+  link.href = './index.html';
+  if (location.protocol === 'file:') return;
+  let directory = new URL('.', location.href);
+  for (let depth = 0; depth < 12; depth++) {
+    const candidate = new URL('index.html', directory);
+    try {
+      const response = await fetch(candidate, {credentials: 'same-origin'});
+      if (response.ok) {
+        const html = new DOMParser().parseFromString(await response.text(), 'text/html');
+        if (html.querySelector('meta[name="portfolio-home"][content="harley-aguilar"]')) {
+          link.href = candidate.href;
+          return;
+        }
+      }
+    } catch { /* The ordinary link remains available offline. */ }
+    if (directory.pathname === '/') break;
+    directory = new URL('../', directory);
+  }
+})();
+</script></body>
+</html>
