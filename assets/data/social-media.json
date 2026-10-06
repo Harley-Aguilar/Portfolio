@@ -1,0 +1,98 @@
+{
+  "observedAt": "2026-10-06",
+  "method": "Public profile pages and public video counters, manually verified. Abbreviated platform counts remain approximate. This is a snapshot, not live analytics.",
+  "profiles": {
+    "tiktok": {
+      "url": "https://www.tiktok.com/@hudeplay",
+      "followers": 3730,
+      "following": 41,
+      "likesApprox": 126600
+    },
+    "youtube": {
+      "url": "https://www.youtube.com/@Hudezin",
+      "subscribersApprox": 1370,
+      "videos": 57,
+      "totalViews": 422538,
+      "joined": "2017-07-24"
+    },
+    "instagram": {
+      "url": "https://www.instagram.com/_huderpg_/",
+      "followers": 132,
+      "following": 22
+    }
+  },
+  "recentVideos": [
+    {
+      "id": "9rRVzkxMmbU",
+      "tt": "7677593675978837266",
+      "pt": "3 recomendações de sistemas de RPG",
+      "en": "3 tabletop RPG system recommendations",
+      "views": "7,1 mil",
+      "enViews": "7.1K",
+      "ttViews": 1336,
+      "likes": 455,
+      "comments": 8
+    },
+    {
+      "id": "NqNT5rPbACQ",
+      "tt": "7677180787527060754",
+      "pt": "Sistema próprio de RPG: Cyberpunk",
+      "en": "An original Cyberpunk RPG system",
+      "views": "2 mil",
+      "enViews": "2K",
+      "ttViews": 601
+    },
+    {
+      "id": "766BSjtMn6c",
+      "tt": "7676168788399852818",
+      "pt": "Um indie a caminho do GOTY?",
+      "en": "An indie contender for GOTY?",
+      "views": "1,4 mil",
+      "enViews": "1.4K",
+      "ttViews": 146
+    },
+    {
+      "id": "fCn0ru-9cxg",
+      "tt": "7675032287125228807",
+      "pt": "Ordem vai voltar?",
+      "en": "Is Ordem coming back?",
+      "views": "2 mil",
+      "enViews": "2K",
+      "ttViews": 484
+    },
+    {
+      "id": "rqd4OOSqPZA",
+      "tt": "7617747884632476935",
+      "pt": "Resident Evil Requiem: PC × console",
+      "en": "Resident Evil Requiem: PC × console",
+      "views": "16 mil",
+      "enViews": "16K",
+      "ttViews": 953
+    }
+  ],
+  "highlights": [
+    {
+      "title": "Como fazer os mapas pro seu RPG",
+      "url": "https://www.tiktok.com/@hudeplay/video/7458123803651083526",
+      "viewsApprox": 374500,
+      "likesApprox": 48000,
+      "comments": 302,
+      "favoritesApprox": 21300,
+      "shares": 8719
+    },
+    {
+      "title": "Ideia para RPG de mesa",
+      "url": "https://www.tiktok.com/@hudeplay/video/7459189446986992902",
+      "viewsApprox": 117400
+    },
+    {
+      "title": "Como melhorar a sua mesa de RPG",
+      "url": "https://www.tiktok.com/@hudeplay/video/7496881312515624247",
+      "viewsApprox": 68000
+    }
+  ],
+  "unavailable": [
+    "Unique audience, reach, impressions, retention, growth, conversion and private account analytics",
+    "Instagram post engagement: login required"
+  ]
+}

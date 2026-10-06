@@ -14,3 +14,8 @@ Imagens abaixo da primeira tela usam carregamento sob demanda. Vídeos não pré
 
 ## Manutenção
 `assets/js/app.js` contém os controles em português e `assets/js/app.en.js`, em inglês. Mantenha ambos sincronizados ao alterar comportamentos. `assets/projects/en/` contém as artes inglesas. Os originais em português são preservados. A ficha de RPG em inglês tem imagem ampliável traduzida e um link identificado para a animação original em português.
+
+## Social media
+A home inclui uma seção com acesso ao case `projects/social-media.html`, também traduzido em `en/projects/social-media.html`. Cinco Shorts recentes têm reprodução incorporada carregada apenas após o clique e links para YouTube e TikTok. Um único player fica ativo por vez.
+
+Os números públicos foram consultados em 06/10/2026 e estão documentados, com fontes e limitações, em `assets/data/social-media.json`. Contagens abreviadas são aproximadas. Não representam alcance único, retenção ou analytics privados. A atualização dos números é manual: altere o JSON e os textos nas duas homes e nos dois cases, mantendo a data da consulta. `assets/css/social-media.css` e `assets/js/social-media.js` cuidam da apresentação e reprodução.
