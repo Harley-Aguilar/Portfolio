@@ -18,7 +18,8 @@
     "instagram": {
       "url": "https://www.instagram.com/_huderpg_/",
       "followers": 132,
-      "following": 22
+      "following": 22,
+      "posts": 57
     }
   },
   "recentVideos": [
@@ -31,7 +32,10 @@
       "enViews": "7.1K",
       "ttViews": 1336,
       "likes": 455,
-      "comments": 8
+      "comments": 8,
+      "instagramUrl": "https://www.instagram.com/_huderpg_/reel/DcbNOCPx-Rk/",
+      "instagramViews": 8966,
+      "coverFrameSeconds": 7.5
     },
     {
       "id": "NqNT5rPbACQ",
@@ -40,7 +44,10 @@
       "en": "An original Cyberpunk RPG system",
       "views": "2 mil",
       "enViews": "2K",
-      "ttViews": 601
+      "ttViews": 601,
+      "instagramUrl": "https://www.instagram.com/_huderpg_/reel/DcYVzT5SyGY/",
+      "instagramViews": 1984,
+      "coverFrameSeconds": 2.5
     },
     {
       "id": "766BSjtMn6c",
@@ -49,7 +56,10 @@
       "en": "An indie contender for GOTY?",
       "views": "1,4 mil",
       "enViews": "1.4K",
-      "ttViews": 146
+      "ttViews": 146,
+      "instagramUrl": "https://www.instagram.com/_huderpg_/reel/DcRUUWIRfIp/",
+      "instagramViews": 455,
+      "coverFrameSeconds": 12.5
     },
     {
       "id": "fCn0ru-9cxg",
@@ -58,7 +68,10 @@
       "en": "Is Ordem coming back?",
       "views": "2 mil",
       "enViews": "2K",
-      "ttViews": 484
+      "ttViews": 484,
+      "instagramUrl": "https://www.instagram.com/_huderpg_/reel/DcJcdEcx2bP/",
+      "instagramViews": 213,
+      "coverFrameSeconds": 17.5
     },
     {
       "id": "rqd4OOSqPZA",
@@ -67,7 +80,10 @@
       "en": "Resident Evil Requiem: PC × console",
       "views": "16 mil",
       "enViews": "16K",
-      "ttViews": 953
+      "ttViews": 953,
+      "instagramUrl": "https://www.instagram.com/_huderpg_/reel/DV78QKODcPg/",
+      "instagramViews": 172,
+      "coverFrameSeconds": 17.5
     }
   ],
   "highlights": [
@@ -92,94 +108,58 @@
     }
   ],
   "unavailable": [
-    "Unique audience, reach, impressions, retention, growth, conversion and private account analytics",
-    "Instagram post engagement: login required"
+    "Unique audience, reach, impressions, retention, growth, conversion and private account analytics"
   ],
-  "performance": {
+  "featuredPerformance": {
     "observedAt": "2026-10-06",
-    "platform": "YouTube Shorts",
-    "source": "https://www.youtube.com/@Hudezin/shorts",
-    "selection": "12 most recent Shorts in the public Most recent tab, including every item in the sequence",
-    "order": "Newest to oldest",
-    "sampleSize": 12,
-    "above1000": 9,
-    "percentAbove1000": 75,
-    "medianViewsApprox": 2000,
-    "latestFiveAbove1000": 5,
-    "notes": "Approximate counts transcribed from abbreviated public counters. A cross-sectional view count snapshot, not a publication cadence, retention, growth, or future-performance claim.",
-    "videos": [
+    "selection": "Curated publications with more than 10,000 views. Not an average or a complete chronological sample.",
+    "publications": [
       {
-        "url": "https://www.youtube.com/shorts/9rRVzkxMmbU",
-        "viewsApprox": 7100,
-        "displayPt": "7,1 mil",
-        "displayEn": "7.1K"
+        "url": "https://www.tiktok.com/@hudeplay/video/7458123803651083526",
+        "platform": "TikTok",
+        "viewsApprox": 374500
       },
       {
-        "url": "https://www.youtube.com/shorts/NqNT5rPbACQ",
-        "viewsApprox": 2000,
-        "displayPt": "2 mil",
-        "displayEn": "2K"
+        "url": "https://www.tiktok.com/@hudeplay/video/7459189446986992902",
+        "platform": "TikTok",
+        "viewsApprox": 117400
       },
       {
-        "url": "https://www.youtube.com/shorts/766BSjtMn6c",
-        "viewsApprox": 1400,
-        "displayPt": "1,4 mil",
-        "displayEn": "1.4K"
+        "url": "https://www.tiktok.com/@hudeplay/video/7496881312515624247",
+        "platform": "TikTok",
+        "viewsApprox": 68000
       },
       {
-        "url": "https://www.youtube.com/shorts/fCn0ru-9cxg",
-        "viewsApprox": 2000,
-        "displayPt": "2 mil",
-        "displayEn": "2K"
+        "url": "https://www.youtube.com/shorts/NGPLQGwNh2s",
+        "platform": "YouTube",
+        "viewsApprox": 33000
       },
       {
-        "url": "https://www.youtube.com/shorts/rqd4OOSqPZA",
-        "viewsApprox": 16000,
-        "displayPt": "16 mil",
-        "displayEn": "16K"
+        "url": "https://www.youtube.com/shorts/LrLEQf-fz0I",
+        "platform": "YouTube",
+        "viewsApprox": 30000
       },
       {
-        "url": "https://www.youtube.com/shorts/rCpcuS81_hE",
-        "viewsApprox": 713,
-        "displayPt": "713",
-        "displayEn": "713"
+        "url": "https://www.youtube.com/shorts/FT4G-ncv8AU",
+        "platform": "YouTube",
+        "viewsApprox": 24000
       },
       {
-        "url": "https://www.youtube.com/shorts/GBouMxP-njc",
-        "viewsApprox": 307,
-        "displayPt": "307",
-        "displayEn": "307"
+        "url": "https://www.youtube.com/shorts/LhvnrC-Ctns",
+        "platform": "YouTube",
+        "viewsApprox": 22000
       },
       {
-        "url": "https://www.youtube.com/shorts/Dkih7bJ9MfQ",
-        "viewsApprox": 1300,
-        "displayPt": "1,3 mil",
-        "displayEn": "1.3K"
+        "url": "https://www.youtube.com/shorts/bFvH6G_wVaI",
+        "platform": "YouTube",
+        "viewsApprox": 22000
       },
       {
-        "url": "https://www.youtube.com/shorts/f68T4liLpm4",
-        "viewsApprox": 4700,
-        "displayPt": "4,7 mil",
-        "displayEn": "4.7K"
-      },
-      {
-        "url": "https://www.youtube.com/shorts/glBRz8bhCjg",
-        "viewsApprox": 359,
-        "displayPt": "359",
-        "displayEn": "359"
-      },
-      {
-        "url": "https://www.youtube.com/shorts/WN06aXJlnqM",
-        "viewsApprox": 2700,
-        "displayPt": "2,7 mil",
-        "displayEn": "2.7K"
-      },
-      {
-        "url": "https://www.youtube.com/shorts/mhAf1wU9TmQ",
-        "viewsApprox": 3100,
-        "displayPt": "3,1 mil",
-        "displayEn": "3.1K"
+        "url": "https://www.youtube.com/shorts/nFF3gQtE0Bo",
+        "platform": "YouTube",
+        "viewsApprox": 22000
       }
-    ]
+    ],
+    "totalViewsApprox": 712900
   }
 }
