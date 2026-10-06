@@ -19,3 +19,5 @@ Imagens abaixo da primeira tela usam carregamento sob demanda. Vídeos não pré
 A home inclui uma seção com acesso ao case `projects/social-media.html`, também traduzido em `en/projects/social-media.html`. Cinco Shorts recentes têm reprodução incorporada carregada apenas após o clique e links para YouTube e TikTok. Um único player fica ativo por vez.
 
 Os números públicos foram consultados em 06/10/2026 e estão documentados, com fontes e limitações, em `assets/data/social-media.json`. Contagens abreviadas são aproximadas. Não representam alcance único, retenção ou analytics privados. A atualização dos números é manual: altere o JSON e os textos nas duas homes e nos dois cases, mantendo a data da consulta. `assets/css/social-media.css` e `assets/js/social-media.js` cuidam da apresentação e reprodução.
+
+As capas do case usam tipografia e formas vetoriais em HTML/CSS, com cinco variações. Os vídeos originais permanecem nos players e links. A seção de desempenho usa os 12 Shorts mais recentes, em sequência completa; os dados e cálculos de mediana e proporção estão no JSON. É uma consulta de visualizações acumuladas, não uma série temporal.
