@@ -39,7 +39,6 @@
       <circle cx="1092" cy="386" r="142" fill="#0A0A0A"/>
       <circle cx="1092" cy="386" r="80" fill="url(#violetGlow)"/>
       <path d="M1092 118V654M824 386H1360" stroke="#F4F1E8" stroke-opacity=".5"/>
-      <path d="M1073 351L1073 421L1131 386Z" fill="#F4F1E8"/>
-<g transform="rotate(-12 961 216)"><g class="badge branding"><rect x="878" y="190" width="166" height="52" rx="26" fill="#F4F1E8" filter="url(#shadowSmall)"/><text x="961" y="216" text-anchor="middle" dominant-baseline="central" class="mono ink" font-size="12">VIDEO EDITING</text></g></g>
-      <g transform="rotate(9 1204 584)"><g class="badge uiux"><rect x="1112" y="558" width="184" height="52" rx="26" fill="#7C5CFF" filter="url(#shadowSmall)"/><text x="1204" y="584" text-anchor="middle" dominant-baseline="central" class="mono paper" font-size="12">SOCIAL MEDIA</text></g></g>
+      <g transform="rotate(-12 961 216)"><g class="badge branding"><rect x="878" y="190" width="166" height="52" rx="26" fill="#F4F1E8" filter="url(#shadowSmall)"/><text x="961" y="216" text-anchor="middle" dominant-baseline="central" class="mono ink" font-size="12">BRANDING</text></g></g>
+      <g transform="rotate(9 1204 584)"><g class="badge uiux"><rect x="1112" y="558" width="184" height="52" rx="26" fill="#7C5CFF" filter="url(#shadowSmall)"/><text x="1204" y="584" text-anchor="middle" dominant-baseline="central" class="mono paper" font-size="12">UI / UX DESIGN</text></g></g>
       </svg>
